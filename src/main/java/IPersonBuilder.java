@@ -1,0 +1,3 @@
+interface IPersonBuilder {
+    Person build();
+}
